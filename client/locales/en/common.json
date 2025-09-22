@@ -1,0 +1,297 @@
+{
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "hi": "Hindi",
+    "mr": "Marathi"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "testimonials": "Testimonials",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "header": {
+    "getQuote": "Get Quote",
+    "phone": "9890273333"
+  },
+  "hero": {
+    "badge": "Professional Security Services",
+    "title": {
+      "prefix": "Reliable",
+      "security": "Security",
+      "and": "&",
+      "facility": "Facility",
+      "services": "Services"
+    },
+    "description": "We provide contractual manpower supply services to industries with specialized security guards and facility management solutions across Maharashtra.",
+    "cta": {
+      "getFreeQuote": "Get Free Quote",
+      "call": "Call: {{number}}"
+    },
+    "stats": {
+      "clients": "Satisfied Clients",
+      "coverage": "Security Coverage",
+      "years": "Years Experience"
+    }
+  },
+  "about": {
+    "badge": "About Success Facility Services",
+    "heading": "Clean  Clear Solutions",
+    "description": "We are committed to providing specific manpower support within stipulated time frames, aiming to become the no.1 manpower supplier in Maharashtra with excellence and reliability.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To provide our clients with total service solutions under one roof in a cost-effective manner and realize our dream of being a specialized services provider committed to delivering excellence."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "text": "To provide specific manpower support within the stipulated time frame and become the no.1 manpower supplier in Maharashtra through innovation and quality service."
+    },
+    "values": {
+      "title": "Our Values",
+      "text": "Client satisfaction is our primary mission. We take due care of client needs and resolve their complaints on priority basis with unwavering dedication to quality."
+    },
+    "registrations": {
+      "psara": "Registered & Certified",
+      "epf": "Fully Compliant"
+    },
+    "why": {
+      "title": "Why Choose Success?",
+      "points": [
+        "Professionally trained security personnel with industry expertise",
+        "Customized training programs tailored to client-specific needs",
+        "All statutory compliances maintained with transparency",
+        "24/7 support and continuous monitoring systems",
+        "Strategic partnership with Mahesh Dada Vision Academy"
+      ]
+    }
+  },
+  "servicesSection": {
+    "badge": "Our Premium Services",
+    "heading": "Comprehensive <1>Security & Facility</1> Solutions",
+    "description": "We offer a complete range of security and facility management services tailored to meet your specific business requirements with excellence.",
+    "securityCard": {
+      "title": "Security Services",
+      "desc": "Professional security solutions for complete protection of your premises and assets.",
+      "items": [
+        "Overall protection from fire, theft and accidents",
+        "Material checking and advanced gate management",
+        "Fire fighting equipment maintenance & safety protocols",
+        "Security vulnerability assessment & threat detection",
+        "Visitor management with modern access control systems"
+      ]
+    },
+    "facilityCard": {
+      "title": "Facility Services",
+      "desc": "Complete housekeeping and facility management solutions for optimal workplace environment.",
+      "items": [
+        "Office premises and interior maintenance excellence",
+        "Garden and pathway maintenance with landscaping",
+        "Indoor cleaning 5 times daily with premium equipment",
+        "Regular toilet maintenance and sanitization",
+        "Skilled & semi-skilled workforce deployment"
+      ]
+    }
+  },
+  "training": {
+    "heading": "Professional <1>Training Programs</1>",
+    "description": "We thoroughly cover comprehensive topics in our modularized security training program with industry-best practices and modern methodologies.",
+    "programs": [
+      "Introduction to Security",
+      "Fire Prevention & Control",
+      "Professional Conduct",
+      "Customer Relations",
+      "Safety Protocols",
+      "Visitor Management",
+      "Access Control Systems",
+      "Vehicle Inspection",
+      "Communication Skills",
+      "Emergency Response",
+      "Security Patrolling",
+      "Report Documentation"
+    ]
+  },
+  "gallery": {
+    "badge": "Our Work Gallery",
+    "heading": "Services in <1>Action</1>",
+    "description": "Witness our professional security and facility management services in action across various industries and environments."
+  },
+  "testimonials": {
+    "badge": "Client Testimonials",
+    "heading": "What Our <1>Clients</1> Say",
+    "description": "Client satisfaction is our primary mission. Here's what our valued clients have to say about our exceptional services and dedication."
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "heading": "Ready to <1>Secure</1> Your Business?",
+    "description": "Contact us today for a free consultation and customized quote. Our experts are ready to discuss your security and facility management needs.",
+    "form": {
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+91 XXXXX XXXXX",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your security and facility management requirements...",
+      "submit": "Send Message"
+    },
+    "info": {
+      "getInTouch": "Get in Touch",
+      "officeAddress": "Office Address",
+      "phoneNumbers": "Phone Numbers",
+      "emailAddress": "Email Address",
+      "operatingHours": "Operating Hours",
+      "proprietor": "Proprietor:",
+      "operationHead": "Operation Head:",
+      "proprietorName": "Mr. Ravindra Bodke",
+      "operationHeadName": "Mr. Balaji Chate"
+    }
+  },
+  "blog": {
+    "badge": "Latest Insights",
+    "heading": "Security <1>News & Updates</1>",
+    "description": "Stay updated with the latest security trends, industry insights, and expert tips from our professional team.",
+    "readMore": "Read More",
+    "readLess": "Read Less",
+    "posts": [
+      {
+        "title": "Essential Security Measures for Industrial Facilities",
+        "excerpt": "We are honored to receive the Maharashtra Business Award 2025 by Reseal Awards, a recognition of our excellence and innovation in the security industry.",
+        "date": "March 15, 2025",
+        "category": "Great Achievement",
+        "image": "https://cdn.builder.io/api/v1/image/assets%2F0d3ac1e5c3f0478785578d7c6654e9c8%2Fccc4ea45b1be484dad1708127373201b?format=webp&width=800",
+        "imageAlt": "Receiving Maharashtra Business Award 2025 at Reseal Awards",
+        "gradient": "from-brand-primary to-brand-secondary"
+      },
+      {
+        "title": "The Evolution of Modern Security Training",
+        "excerpt": "Exploring how continuous professional development and advanced training methodologies are reshaping the security industry standards.",
+        "date": "March 10, 2024",
+        "category": "Training & Development",
+        "image": "https://cdn.builder.io/api/v1/image/assets%2F0d3ac1e5c3f0478785578d7c6654e9c8%2F52ca52aa37114161a1f3efdaa321ddbf?format=webp&width=800",
+        "imageAlt": "Professional presenting on digital evolution and training concepts",
+        "gradient": "from-brand-secondary to-brand-accent"
+      },
+      {
+        "title": "Facility Management Excellence in 2024",
+        "excerpt": "Latest trends, technologies, and best practices in facility management that drive operational efficiency and cost-effectiveness.",
+        "date": "March 5, 2024",
+        "category": "Facility Management",
+        "image": "https://cdn.builder.io/api/v1/image/assets%2F0d3ac1e5c3f0478785578d7c6654e9c8%2Fc9227dc54c2a48cc9d65693eee31ae34?format=webp&width=800",
+        "imageAlt": "Professional in modern office reviewing plans at laptop",
+        "gradient": "from-brand-accent to-brand-primary"
+      }
+    ],
+    "more": [
+      "We are proud to be recognized with the Maharashtra Business Award 2025 by Reseal Awards. This honor reflects our commitment to quality, continuous improvement, and customer-centric service delivery across security and facility management. From rigorous guard training to technology-enabled monitoring, we continue to raise the bar for safety and operational excellence.",
+      "Modern curricula blend scenario-based drills, fire safety, conflict de‑escalation, and customer handling with tech modules on VMS, access control panels, and radio procedure. Micro-learning with frequent refreshers builds retention, while periodic mock audits validate real‑world readiness and highlight gaps for immediate remediation.",
+      "Outcome‑based cleaning, IoT‑enabled energy monitoring, and preventative maintenance schedules cut downtime and costs. Standardized checklists, SLA dashboards, and escalation matrices keep stakeholders aligned. Regular toolbox talks and safety briefings reinforce compliance and create a culture of continuous improvement."
+    ]
+  },
+  "faq": {
+    "badge": "Frequently Asked Questions",
+    "heading": "Got <1>Questions?</1> We Have Answers",
+    "description": "Find comprehensive answers to commonly asked questions about our security and facility management services.",
+    "items": [
+      {
+        "question": "What comprehensive security services do you provide?",
+        "answer": "We provide end-to-end security services including overall protection from fire, theft and accidents, advanced material checking and gate management, fire fighting equipment maintenance, comprehensive security vulnerability assessments, and modern visitor management with sophisticated access control systems."
+      },
+      {
+        "question": "Are your security guards properly trained and certified?",
+        "answer": "Absolutely! All our security guards undergo specialized training according to client premises needs and SOPs. We maintain strategic partnerships with Mahesh Dada Vision Academy for comprehensive security training covering fire prevention, emergency response, professional conduct, patrolling techniques, and communication skills."
+      },
+      {
+        "question": "What facility management services do you offer?",
+        "answer": "Our facility services include professional housekeeping, skilled labour contract for workforce deployment, office premises maintenance, garden and pathway maintenance, and customized cleaning schedules with premium equipment and eco-friendly solutions."
+      },
+      {
+        "question": "Do you provide 24/7 security coverage and support?",
+        "answer": "Yes, we provide round-the-clock security coverage with professionally trained guards and advanced monitoring systems. Our dedicated team is available 24/7 for emergency response and continuous surveillance."
+      },
+      {
+        "question": "Are you compliant with all legal requirements and certifications?",
+        "answer": "We maintain all statutory compliances including PSARA registration, EPF, ESIC, PT, and GST. We ensure complete transparency and adherence to legal requirements for both security and facility management operations."
+      },
+      {
+        "question": "How do you customize services for different industries?",
+        "answer": "We conduct thorough assessments and customize training programs, service delivery, and operational procedures based on individual client needs, industry standards, and premises requirements to deliver optimal solutions."
+      }
+    ]
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "ourServices": "Our Services",
+    "contactUs": "Contact Us",
+    "registrations": "Registrations",
+    "aboutUs": "About Us"
+  },
+  "highlights": {
+    "trainedTitle": "Trained Personnel",
+    "trainedDesc": "Certified and experienced staff for all services",
+    "supportTitle": "24/7 Support",
+    "supportDesc": "Round-the-clock assistance and monitoring"
+  },
+  "gallery": {
+    "badge": "Our Work Gallery",
+    "heading": "Services in <1>Action</1>",
+    "description": "Witness our professional security and facility management services in action across various industries and environments.",
+    "items": [
+      { "title": "Security Personnel on Duty", "category": "Security Services" },
+      { "title": "Professional Facility Team", "category": "Facility Services" },
+      { "title": "Industrial Safety Training", "category": "Training Programs" },
+      { "title": "Advanced Security Monitoring", "category": "Security Technology" },
+      { "title": "Surveillance Systems", "category": "Security Infrastructure" },
+      { "title": "Professional Standards", "category": "Quality Assurance" }
+    ]
+  },
+  "testimonials": {
+    "badge": "Client Testimonials",
+    "heading": "What Our <1>Clients</1> Say",
+    "description": "Client satisfaction is our primary mission. Here's what our valued clients have to say about our exceptional services and dedication.",
+    "items": [
+      { "name": "Rajesh Kumar", "company": "Manufacturing Industries Ltd.", "rating": 5, "feedback": "Success Facility Services has been our trusted security partner for over 3 years. Their professionally trained guards and 24/7 support have given us complete peace of mind. Outstanding service quality!", "avatar": "RK" },
+      { "name": "Priya Sharma", "company": "Tech Solutions Pvt. Ltd.", "rating": 5, "feedback": "Outstanding housekeeping services! Their attention to detail and regular maintenance schedule has significantly improved our office environment. The team is professional and reliable.", "avatar": "PS" },
+      { "name": "Amit Patel", "company": "Retail Chain Group", "rating": 5, "feedback": "We've been impressed with their quick response time and professional approach. Their customized training programs perfectly match our specific security requirements. Highly recommended!", "avatar": "AP" }
+    ]
+  },
+  "contact": {
+    "badge": "Get In Touch",
+    "heading": "Ready to <1>Secure</1> Your Business?",
+    "description": "Contact us today for a free consultation and customized quote. Our experts are ready to discuss your security and facility management needs.",
+    "form": {
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "your@email.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+91 XXXXX XXXXX",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your security and facility management requirements...",
+      "submit": "Send Message"
+    },
+    "info": {
+      "getInTouch": "Get in Touch",
+      "officeAddress": "Office Address",
+      "phoneNumbers": "Phone Numbers",
+      "emailAddress": "Email Address",
+      "operatingHours": "Operating Hours",
+      "operatingDetails": "24/7 Emergency Support\nOffice: Mon-Sat 9:00 AM - 6:00 PM",
+      "proprietor": "Proprietor:",
+      "operationHead": "Operation Head:",
+      "proprietorName": "Mr. Ravindra Bodke",
+      "operationHeadName": "Mr. Balaji Chate"
+    }
+  },
+  "toast": {
+    "enquirySentTitle": "Enquiry sent",
+    "enquirySentDesc": "We'll get back to you within 24 hours.",
+    "submissionFailedTitle": "Submission failed",
+    "submissionFailedDesc": "Please try again or contact us directly."
+  }
+}
